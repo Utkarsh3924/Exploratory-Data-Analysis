@@ -1,2 +1,5 @@
 # Exploratory-Data-Analysis
-As a Buisness manager, exploring our data on sales of different products over the region and deriving observations which can improve the sale of the products thus maximizing the profit to the company.
+Sales Optimization through Exploratory Data Analysis<br>
+ * Gathered and cleaned sales data encompassing different products and region.
+ * Conducted EDA using data visualisation techniques to identify trends and patterns in regional sales performance and product popularity.
+ * Derived actionable Insights to improve sales strategies and maximizing company’s profit.
